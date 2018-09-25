@@ -1,2 +1,2 @@
 # init_test
-For initial testing and issue probes
+For initial testing and potential issues probes
